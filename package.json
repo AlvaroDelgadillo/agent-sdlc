@@ -6,9 +6,15 @@
   "scripts": {
     "build": "tsc"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@hono/node-server": "^1.19.14",
+    "better-sqlite3": "^12.9.0",
+    "hono": "^4.12.14"
+  },
   "devDependencies": {
-    "typescript": "^5.5.3"
+    "tsx": "^4.21.0",
+    "typescript": "^5.5.3",
+    "vitest": "^3.2.4"
   },
   "private": true
 }
