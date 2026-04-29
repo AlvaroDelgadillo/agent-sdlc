@@ -27,3 +27,12 @@ Courses:
     https://github.com/bytedance/trae-agent
     https://github.com/github/spec-kit
 
+- Engram
+    Tutorial: https://www.youtube.com/watch?v=rzYDWIQh2r4
+    Agent Assistant: https://github.com/Gentleman-Programming/engram
+    Use Cases: https://engram.tools/es/use-cases
+
+- Obsidian
+    https://obsidian.md/pricing
+
+
